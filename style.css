@@ -40,8 +40,8 @@ h4{font-size: 30px;color: #1C0A00;}
 
 .sec{
     padding: 5px 100px;
-    /* background-image: url("https://i.pinimg.com/originals/57/dd/bb/57ddbb0e894d12a376ae8653edd2092a.png"); */
-    background-image: url("./photos/content.jpeg");
+    background-image: url("https://i.pinimg.com/originals/57/dd/bb/57ddbb0e894d12a376ae8653edd2092a.png");
+    /* background-image: url("./photos/content.jpeg"); */
     /* background-image: url("https://i.pinimg.com/736x/64/5a/aa/645aaa627381b07ad1ab60812ed093aa.jpg"); */
     color: white;
     
@@ -54,7 +54,7 @@ div p{
 }
 
 .img1{
-    background-image: url("./photos/apexlegends.jpeg");
+    background-image: url("https://cdnb.artstation.com/p/assets/images/images/026/627/919/large/fahx-pv-4k-season-5-wallpaper.jpg?1589291105");
     min-height: 100%;
     font-size: 60px;
     font-weight: 900;
@@ -64,14 +64,14 @@ div p{
 
 .img2{
     /* background-image: url("https://images.wallpapersden.com/image/download/apex-legends-cool-art_bGxsZ2aUmZqaraWkpJRmbmdlrWZlbWU.jpg"); */
-    background-image: url("./photos/bangalore.jpeg");
-    /* background-image: url("https://wallpapercave.com/wp/wp5595135.jpg"); */
+    /* background-image: url("./photos/bangalore.jpeg"); */
+    background-image: url("https://wallpapercave.com/wp/wp5595135.jpg");
     min-height: 100%;
     color: #F5EDDC;
 }
 
 .img3{
-    background-image: url("./photos/octane.jpeg");
+    background-image: url("https://1.bp.blogspot.com/-KjQ85Fp53Bk/XRUs_iJwvcI/AAAAAAAAH10/AfRDGHAuHvAq1P02tNSujWCf9ltBjAX5QCKgBGAs/w0/apex-legends-octane-uhdpaper.com-4K-117.jpg");
     min-height: 100%;
     text-align:unset;
     color: #0E185F;
@@ -80,17 +80,17 @@ div p{
 .img4{
     /* background-image: url("https://images.wallpapersden.com/image/download/apex-legends-bloodhound_bGVmZWWUmZqaraWkpJRobWllrWdma2U.jpg"); */
     min-height: 100%;
-    background-image: url("./photos/bloodhound.jpeg");
+    background-image: url("https://images2.alphacoders.com/115/1151279.jpg");
 }
 
 .img5{
-    background-image: url("./photos/caustic.jpeg");
+    background-image: url("https://images4.alphacoders.com/115/1152507.jpg");
     min-height: 100%;
     color: #9B0000;
 }
 
 .img6{
-    background-image: url("./photos/revenant.jpeg");
+    background-image: url("https://4kwallpapers.com/images/wallpapers/revenant-apex-legends-pc-games-playstation-4-nintendo-3840x2160-7771.jpg");
     min-height: 100%;
     color: #F5F0BB;
 }
